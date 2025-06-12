@@ -1,9 +1,9 @@
 #ifndef MODULES_H
 #define MODULES_H
 
-void run_whois(char *domain);
-void run_nslookup(char *domain);
-void run_ping(char *domain);
-void run_subfinder(char *domain);
+void module_whois(const char *domain);
+void module_nslookup(const char *domain);
+void module_ping(const char *domain);
+void module_subfinder(const char *domain);
 
 #endif
