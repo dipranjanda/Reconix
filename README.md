@@ -1,11 +1,11 @@
-# 🔍 Reconix
+### 🔍 Reconix
 
 **Reconix** is a minimal and efficient command-line tool written in C for performing initial reconnaissance on web domains.  
 It automates multiple basic information gathering techniques, allowing security researchers and bug bounty hunters to quickly collect and save intel on target domains.
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - Performs WHOIS, NSLOOKUP, and PING tests from a single CLI interface
 - Optional integration with Subfinder for subdomain enumeration
@@ -32,9 +32,16 @@ Ensure the following tools are installed on your system:
 git clone https://github.com/dipranjanda/Reconix.git
 cd Reconix
 make
+```
 
----
+### ⚠️ Disclaimer
 
-**Developed and maintained by Dip Ranjan Das**  
-**Inspired by the open-source recon tools community.**  
+This tool is made for **educational and ethical testing purposes only.**  
+Do not use against domains you do not own or have permission to test.
+
+
+### 👨‍🔧 **Developed and Maintained by [Dip Ranjan Das](https://github.com/dipranjanda)**  
+**Cybersecurity Enthusiast | CTF Player | InfoSec Learner**
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/dipranjandas)
 
