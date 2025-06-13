@@ -33,6 +33,6 @@ git clone https://github.com/dipranjanda/Reconix.git
 cd Reconix
 make
 
-Developed and maintained by Dip Ranjan Das
-Inspired by the open-source recon tools community.
+### Developed and maintained by Dip Ranjan Das
+### Inspired by the open-source recon tools community.
 
